@@ -1,0 +1,26 @@
+diff --git a/README.md.rej b/README.md.rej
+new file mode 100644
+index 0000000..fa3a022
+--- /dev/null
++++ b/README.md.rej
+@@ -0,0 +1,8 @@
++diff a/README.md b/README.md	(rejected hunks)
++@@ -1,2 +1,3 @@
++ # 컨트리뷰터 목록
++-- 진유림
++\ No newline at end of file
+++- 진유림
+++- 이진환
++\ No newline at end of file
+diff --git a/index.html b/index.html
+index 06daad2..2f081af 100644
+--- a/index.html
++++ b/index.html
+@@ -8,6 +8,7 @@
+ </head>
+ <body>
+     <div>
++        <h1>팜므어 번역기 _ 이진환</h1>
+         <h1>팜므어 번역기 _ 이진환...</h1>
+         <textarea name="" id="" cols="30" rows="10"></textarea>
+         <button>번역</button>
